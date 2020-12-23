@@ -1,0 +1,13 @@
+#para1{
+    font-size: 30px;
+    color: blue;
+}
+#para2{
+    font-family: monospace;
+    background-color: blueviolet;
+}
+#para3{
+    font-style: italic;
+    font-weight: 300;
+    word-spacing: 1px;
+}
